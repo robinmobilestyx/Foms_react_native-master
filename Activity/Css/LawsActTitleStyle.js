@@ -1,0 +1,43 @@
+import { StyleSheet } from 'react-native';
+
+
+const LawsActTitleStyle = StyleSheet.create({
+    maincontainer: {
+        flex: 1,
+        backgroundColor: "#fafafa"
+    },
+    headercontainer: {
+        height: 80,
+        backgroundColor: "#112470",
+    },
+    touchbleopacity: {
+        borderBottomWidth: 2,
+        borderBottomColor: '#e7e7e7',
+    },
+    lawheaderactnotext: {
+        color: '#000000',
+        fontSize: 18,
+        fontWeight: '800',
+        marginLeft: 5
+    },
+    lawheaderacttext: {
+        color: '#000000',
+        fontSize: 18,
+        fontWeight: '700',
+        marginLeft: 5,
+    },
+    lawcontenttext: {
+        margin: 8,
+        fontSize: 15,
+        fontWeight: '700',
+        color: '#000000',
+    },
+    downarrow: {
+        height: 25,
+        width: 25,
+        position: "absolute",
+        right: 10,
+        top: 10
+    },
+});
+export default LawsActTitleStyle;

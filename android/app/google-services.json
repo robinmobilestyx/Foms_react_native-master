@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "715371389716",
+    "firebase_url": "https://poms-f54e5.firebaseio.com",
+    "project_id": "poms-f54e5",
+    "storage_bucket": "poms-f54e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715371389716:android:2cf262a076d8edb6101801",
+        "android_client_info": {
+          "package_name": "com.mobilestyx.poms_peterborough_rn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715371389716-ooc6tkq0k0ls64j4e212np5680u31r1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9sH3_a1C3hSNFoVg016kirTTFOSmWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715371389716-ooc6tkq0k0ls64j4e212np5680u31r1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715371389716:android:aafd7e3c30f192da101801",
+        "android_client_info": {
+          "package_name": "com.mobilestyx.poms_peterborough_rn.pre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715371389716-ooc6tkq0k0ls64j4e212np5680u31r1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9sH3_a1C3hSNFoVg016kirTTFOSmWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715371389716-ooc6tkq0k0ls64j4e212np5680u31r1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715371389716:android:0d858c16083e6a93101801",
+        "android_client_info": {
+          "package_name": "com.mobilestyx.poms_peterborough_rn.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715371389716-ooc6tkq0k0ls64j4e212np5680u31r1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp9sH3_a1C3hSNFoVg016kirTTFOSmWJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715371389716-ooc6tkq0k0ls64j4e212np5680u31r1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
